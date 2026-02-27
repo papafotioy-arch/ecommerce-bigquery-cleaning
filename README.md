@@ -28,7 +28,8 @@ These checks confirm that the cleaned dataset is stable, consistent, and suitabl
 
 ## Repository Structure
 
-``` ecommerce-bigquery-cleaning/
+```
+e-commerce-dataset/
 │
 ├── data/
 │   ├── power_query_relay_dataset1.csv
@@ -52,4 +53,5 @@ These checks confirm that the cleaned dataset is stable, consistent, and suitabl
 │   └── cleaning_log.md
 │
 └── notebooks/
-    └── bigquery_analysis.ipynb ```
+    └── bigquery_analysis.ipynb
+```
